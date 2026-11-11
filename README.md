@@ -309,4 +309,4 @@ Trading and investing involve risk and may result in substantial losses. Past ma
 
 ## SEO Keywords
 
-Swissnorth, Swissnorth Ltd, digital asset platform, unified settlement layer, crypto trading platform, spot trading, perpetual trading, staking, cross-chain swaps, EVM wallet, Solana wallet, smart account, self-custody, MPC key management, proof of reserves, on-chain verification, liquidity heatmap, order book heatmap, volume bubbles, order-flow analysis, market depth, best bid and offer, depth of market, DOM, market microstructure, Record and Replay, crypto market analytics, digital asset settlement.
+- Swissnorth - Swissnorth Ltd - Digital Asset Platform - Unified Settlement Layer - Crypto Trading Platform - Spot Trading - Perpetual Trading - Staking - Cross-Chain Swaps - EVM Wallet - Solana Wallet - Smart Account - Self-Custody - MPC Key Management - Proof of Reserves - On-Chain Verification - Liquidity Heatmap - Order Book Heatmap - Volume Bubbles - Order-Flow Analysis - Market Depth - Best Bid and Offer - Depth of Market (DOM) - Market Microstructure - Record and Replay - Crypto Market Analytics - Digital Asset Settlement
