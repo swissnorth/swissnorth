@@ -1,594 +1,312 @@
-::: {align="center"}
-`<img src="https://github.com/swissnorth/swissnorth/blob/main/swissnorth%20banner.png?raw=true" alt="Swissnorth Ltd — Move Value at Chain Speed" width="100%" />`{=html}
 
-```{=html}
-<h1>
-```
-Swissnorth Ltd
-```{=html}
-</h1>
-```
-```{=html}
-<h3>
-```
-Move Value at Chain Speed.
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-`<strong>`{=html}The unified settlement layer for digital
-assets.`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-Spot · Perpetuals · Staking · Cross-chain swaps
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<a href="https://swissnorth.com/">`{=html}`<img src="https://img.shields.io/badge/Website-swissnorth.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />`{=html}`</a>`{=html}
-`<a href="https://github.com/swissnorth">`{=html}`<img src="https://img.shields.io/badge/GitHub-swissnorth-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}`</a>`{=html}
-`<a href="mailto:support@swissnorth.com">`{=html}`<img src="https://img.shields.io/badge/Support-Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email support" />`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<em>`{=html}London, United Kingdom`</em>`{=html}
-```{=html}
-</p>
-```
-:::
+<div align="center">
+  <img src="https://github.com/swissnorth/swissnorth/blob/main/swissnorth%20banner.png?raw=true" alt="Swissnorth Ltd — Move Value at Chain Speed" width="100%" />
 
-------------------------------------------------------------------------
+  <h1>Swissnorth Ltd</h1>
+  <h3>Move Value at Chain Speed.</h3>
+  <p><strong>The Unified Settlement Layer for Digital Assets</strong></p>
+  <p>Spot Trading · Perpetuals · Staking · Cross-Chain Swaps</p>
+
+  <p>
+    <a href="https://swissnorth.com/"><img src="https://img.shields.io/badge/Website-swissnorth.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://github.com/swissnorth"><img src="https://img.shields.io/badge/GitHub-swissnorth-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:support@swissnorth.com"><img src="https://img.shields.io/badge/Contact-Support-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Support" /></a>
+  </p>
+
+  <p><em>London, United Kingdom</em></p>
+</div>
+
+---
 
 ## Overview
 
-Swissnorth brings digital-asset services and market intelligence into
-one unified experience. The platform is designed to connect spot
-trading, perpetuals, staking, and cross-chain swaps through a single
-settlement experience, with a focus on responsive execution, market
-visibility, and user control.
+Swissnorth is a digital asset platform designed to bring trading, settlement, and market intelligence together in one unified experience.
 
-With order-book heatmaps, volume bubbles, market-depth tools, and
-order-flow indicators, Swissnorth helps users examine how liquidity and
-trading activity evolve across price levels.
+From spot trading and perpetuals to staking and cross-chain swaps, Swissnorth aims to simplify access to the on-chain economy through a unified settlement engine, advanced market visualization, and a self-custody-first approach.
 
-> **Platform positioning:** Swissnorth describes its settlement
-> execution as completing in under 400 ms. Refer to the official website
-> and current platform documentation for the latest specifications and
-> availability.
+The platform combines real-time order-book analysis, liquidity visualization, volume insights, and configurable trading tools to help users better understand market activity.
 
-## Platform at a Glance
+**Key platform highlights**
 
-```{=html}
+- Unified access to supported digital asset services.
+- Settlement execution advertised at under 400 ms.
+- Real-time liquidity and order-flow visualization.
+- EVM and Solana wallet connectivity.
+- Portfolio, risk, and profit-and-loss visibility.
+- Configurable market analysis and trading workflows.
+
+## Platform Features
+
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-One account, multiple services
-```{=html}
-</h3>
-```
-Access supported spot markets, perpetuals, staking, and cross-chain
-swaps through a unified platform experience.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-Real-time market context
-```{=html}
-</h3>
-```
-Explore order-book liquidity, executed volume, bid/offer activity, and
-market depth beyond conventional charts.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-Configurable workflows
-```{=html}
-</h3>
-```
-Adapt supported columns, charts, indicators, layouts, and add-ons to
-your preferred trading workflow.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-Self-custody by design
-```{=html}
-</h3>
-```
-Swissnorth presents a self-custody-first approach to using the platform.
-Review the official security documentation for implementation details.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Liquidity Heatmap</h3>
+      Visualize resting limit orders across price levels as liquidity appears, moves, and disappears.
+      <ul>
+        <li>Identify potential support and resistance.</li>
+        <li>Monitor significant liquidity changes.</li>
+        <li>Analyze potential breakout and reversal areas.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Volume Bubbles</h3>
+      Understand executed volume and buying or selling activity as it happens.
+      <ul>
+        <li>Visualize volume at individual prices.</li>
+        <li>Identify buying and selling imbalances.</li>
+        <li>Monitor possible momentum exhaustion.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Best Bid &amp; Offer</h3>
+      Track how incoming volume interacts with the bid-ask spread.
+      <ul>
+        <li>Examine potential absorption and exhaustion.</li>
+        <li>Monitor short-term order-flow changes.</li>
+        <li>Gain context beyond candlestick charts.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Current Order Book</h3>
+      Explore resting liquidity across the depth of market.
+      <ul>
+        <li>View complete market depth (DOM).</li>
+        <li>Customize columns to suit your workflow.</li>
+        <li>Study liquidity distribution across prices.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nanosecond Zoom</h3>
+      Drill into market microstructure with highly granular visualization.
+      <ul>
+        <li>Inspect volume, liquidity, and bid/offer updates.</li>
+        <li>Review detailed market activity.</li>
+        <li>Support granular trade analysis.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Record &amp; Replay</h3>
+      Review historical market sessions and revisit trading decisions.
+      <ul>
+        <li>Examine market activity tick by tick.</li>
+        <li>Review trading decisions.</li>
+        <li>Support strategy analysis.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-```
-## Core Platform Features
-
-### Liquidity Heatmap
-
-Observe resting limit orders across price levels as liquidity changes
-over time.
-
--   Identify potential support and resistance areas.
--   See where significant liquidity appears, moves, or disappears.
--   Examine areas where breakouts or reversals may develop.
-
-### Volume Bubbles
-
-Visualize executed volume at individual prices to better understand
-market activity.
-
--   Compare buying and selling activity.
--   Identify potential imbalances in executed volume.
--   Monitor possible momentum shifts or exhaustion.
-
-### Best Bid & Offer
-
-Track how incoming volume interacts with the bid-ask spread.
-
--   Examine absorption and potential exhaustion.
--   Monitor short-term order-flow changes.
--   Add context to price action beyond candlestick charts.
-
-### Current Order Book
-
-Explore resting liquidity across the depth of market (DOM).
-
--   View market depth beyond the top of the book.
--   Configure columns to suit your trading style.
--   Study liquidity distribution across price levels.
-
-### Nanosecond Zoom
-
-Drill into market microstructure with highly granular visualization.
-
--   Inspect updates, volume, liquidity, and best bid/offer information.
--   Review detailed market activity.
--   Support granular trade analysis and scalping workflows.
 
 ## Get Started in Three Steps
 
-From wallet connection to trading, Swissnorth aims to keep the setup
-flow straightforward.
+From wallet connection to your first trade, Swissnorth aims to make onboarding straightforward.
 
-```{=html}
-<ol>
-```
-```{=html}
-<li>
-```
-```{=html}
-<h3>
-```
-Connect
-```{=html}
-</h3>
-```
-Link a supported EVM or Solana wallet, or create a Swissnorth smart
-account. The platform describes this flow as requiring no forms and no
-transfer of custody.
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-```{=html}
-<h3>
-```
-Fund
-```{=html}
-</h3>
-```
-Bring supported assets from another chain through the platform's
-bridging and routing flow.
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-```{=html}
-<h3>
-```
-Trade across services
-```{=html}
-</h3>
-```
-Access supported spot, perpetuals, staking, and swap services from a
-unified balance view, with portfolio, risk, and PnL information.
-```{=html}
-</li>
-```
-```{=html}
-</ol>
-```
-## Security & User Control
+### 01 · Connect
 
-Swissnorth describes its security approach around user control,
-verifiability, and permission management. For implementation specifics,
-audits, and current security status, consult the official documentation.
+Link a supported EVM or Solana wallet, or create a Swissnorth smart account. The described onboarding flow is designed to avoid lengthy forms and preserve user control of assets.
 
-```{=html}
+### 02 · Fund
+
+Bring supported assets from another chain through the platform's bridging and routing flow.
+
+### 03 · Trade Everything
+
+Access supported spot trading, perpetuals, staking, and swaps from a unified balance experience, with portfolio, risk, and PnL information in one view.
+
+## One Account for the On-Chain Economy
+
+Swissnorth brings multiple digital asset services into one platform experience.
+
+| Service | Description |
+| --- | --- |
+| Spot Trading | Access supported digital asset markets. |
+| Perpetuals | Explore supported perpetual trading markets. |
+| Staking | Access available staking functionality. |
+| Cross-Chain Swaps | Route supported assets across compatible networks. |
+| Market Analytics | Analyze liquidity, order-book depth, and order flow. |
+| Portfolio Overview | Review available portfolio, risk, and PnL information. |
+| Record & Replay | Revisit market sessions and examine trading activity. |
+
+Availability depends on supported networks, data providers, product configuration, and applicable terms.
+
+## Security &amp; User Control
+
+Swissnorth describes its security architecture around user control, verifiability, and granular permissions.
+
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-MPC key management
-```{=html}
-</h3>
-```
-Private-key material is described as being split across independent
-parties so a single machine cannot reconstruct the signing key.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-On-chain proof of reserves
-```{=html}
-</h3>
-```
-The platform describes balances and matches as verifiable on-chain.
-Consult official resources for the applicable verification methods and
-scope.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-Open, auditable contracts
-```{=html}
-</h3>
-```
-Swissnorth describes its core contracts as open source and reviewed,
-with a bug-bounty program. Check official channels for source
-repositories, audit reports, and program terms.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-Granular session keys
-```{=html}
-</h3>
-```
-Session permissions are designed to be scoped by device and action, with
-the ability to revoke sessions.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MPC Key Management</h3>
+      Private-key material is split across independent parties so that a single machine cannot reconstruct the signing key.
+    </td>
+    <td width="50%" valign="top">
+      <h3>On-Chain Proof of Reserves</h3>
+      The platform describes balances and matches as verifiable on-chain. Consult official documentation for verification methods and scope.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Open, Auditable Contracts</h3>
+      Swissnorth describes its core contracts as open source and reviewed, with a bug-bounty program. Refer to official resources for repositories, audits, and program terms.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Granular Session Keys</h3>
+      Scope session permissions by device and action, with the ability to revoke sessions.
+    </td>
+  </tr>
 </table>
-```
-## Services
 
-  -----------------------------------------------------------------------
-  Service                             Overview
-  ----------------------------------- -----------------------------------
-  Spot trading                        Analyze and trade supported digital
-                                      assets.
+### Security Principles
 
-  Perpetuals                          Access supported perpetual trading
-                                      markets.
+- **User control:** A self-custody-first approach to asset management.
+- **Verifiability:** On-chain verification capabilities as described by the platform.
+- **Permission management:** Granular session permissions and revocation.
+- **Contract transparency:** Open-source contract availability as described by Swissnorth.
 
-  Staking                             Explore available staking
-                                      functionality.
+For implementation details, security audits, and current security status, consult the company's official documentation.
 
-  Cross-chain swaps                   Route supported assets across
-                                      compatible networks.
+## Why Swissnorth?
 
-  Market analytics                    Examine liquidity, volume,
-                                      order-book depth, and order flow.
-
-  Record & Replay                     Review market sessions tick by tick
-                                      and revisit trading decisions.
-  -----------------------------------------------------------------------
-
-Availability depends on supported networks, connected data providers,
-product configuration, and applicable terms.
+- **Unified experience:** Multiple digital asset services in one platform.
+- **Market visibility:** Tools for examining liquidity and order-flow behavior.
+- **Detailed analysis:** Granular market data and replay capabilities.
+- **Flexible workflows:** Configurable charts, indicators, columns, and layouts.
+- **User control:** A platform designed around self-custody principles.
 
 ## Frequently Asked Questions
 
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}What is Swissnorth?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Swissnorth is a digital-asset platform bringing together trading
-services and market-analysis tools in a unified experience.
-```{=html}
+  <summary><strong>What is Swissnorth?</strong></summary>
+
+  Swissnorth is a digital asset platform that combines trading services and market-analysis tools in a unified experience.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}What can I do on the platform?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Depending on availability, users can access spot trading, perpetuals,
-staking, cross-chain swaps, market analytics, and session replay tools.
-```{=html}
+  <summary><strong>What services does Swissnorth offer?</strong></summary>
+
+  Depending on availability, the platform offers spot trading, perpetuals, staking, cross-chain swaps, market analytics, and session replay tools.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}Which wallets are supported?`</strong>`{=html}
-```{=html}
-</summary>
-```
-The onboarding flow describes support for EVM and Solana wallets, as
-well as a Swissnorth smart-account option. Check the official website
-for current compatibility.
-```{=html}
+  <summary><strong>How do I get started?</strong></summary>
+
+  Connect a supported wallet or create a smart account, fund it using a supported route, and access the available trading services.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}How much does Swissnorth cost?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Swissnorth describes a free starting option and paid packages with
-additional tools or market-data options. Visit the official website for
-current pricing.
-```{=html}
+  <summary><strong>Which wallets are supported?</strong></summary>
+
+  The described onboarding flow supports EVM and Solana wallets, along with a Swissnorth smart-account option. Check the official website for current compatibility.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}What is a liquidity heatmap?`</strong>`{=html}
-```{=html}
-</summary>
-```
-A liquidity heatmap visualizes resting limit orders over time, helping
-users see where liquidity appears, shifts, or disappears.
-```{=html}
+  <summary><strong>How much does Swissnorth cost?</strong></summary>
+
+  Swissnorth describes a free starting option and paid packages with additional tools or market-data choices. Visit the official website for current pricing.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}Can a heatmap predict market
-movements?`</strong>`{=html}
-```{=html}
-</summary>
-```
-No tool can guarantee future price movements. A heatmap can provide
-context about liquidity and order-book behavior, but it should not be
-treated as a prediction or a guarantee.
-```{=html}
+  <summary><strong>What is a liquidity heatmap?</strong></summary>
+
+  A liquidity heatmap visualizes resting limit orders over time, helping users see where liquidity appears, moves, or disappears.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}Can I review my trading decisions?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Swissnorth describes a Record & Replay feature for revisiting market
-sessions and examining activity tick by tick.
-```{=html}
+  <summary><strong>Can a liquidity heatmap predict market movements?</strong></summary>
+
+  No. A heatmap can reveal areas of interest and changing order-book behavior, but it cannot guarantee future prices or trading outcomes.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}Can I customize the interface?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Supported columns, charts, indicators, layouts, and add-ons can be
-configured to fit a user's workflow.
-```{=html}
+  <summary><strong>What are Volume Bubbles?</strong></summary>
+
+  Volume Bubbles visualize executed trading volume at different price levels to help users analyze buying and selling activity.
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}Where can I get help?`</strong>`{=html}
-```{=html}
-</summary>
-```
-Visit
-`<a href="https://swissnorth.com/">`{=html}swissnorth.com`</a>`{=html}
-or email
-`<a href="mailto:support@swissnorth.com">`{=html}support@swissnorth.com`</a>`{=html}.
-```{=html}
+  <summary><strong>Can I customize the platform?</strong></summary>
+
+  Supported charts, indicators, columns, layouts, and add-ons can be configured to fit your workflow.
 </details>
-```
+
+<details>
+  <summary><strong>Can I review my trading activity?</strong></summary>
+
+  Swissnorth describes Record &amp; Replay functionality for revisiting market sessions and examining activity tick by tick.
+</details>
+
+<details>
+  <summary><strong>How does Swissnorth approach security?</strong></summary>
+
+  Its described security features include MPC key management, on-chain verification, auditable contracts, and granular session keys. Review official security documentation for implementation details.
+</details>
+
+<details>
+  <summary><strong>Where can I get support?</strong></summary>
+
+  Visit <a href="https://swissnorth.com/">swissnorth.com</a> or email <a href="mailto:support@swissnorth.com">support@swissnorth.com</a>.
+</details>
+
 ## Company Information
 
-  Detail     Information
-  ---------- --------------------------------------------------------
-  Company    Swissnorth Ltd
-  Location   London, United Kingdom
-  Website    [swissnorth.com](https://swissnorth.com/)
-  GitHub     [github.com/swissnorth](https://github.com/swissnorth)
-  Support    <support@swissnorth.com>
+| Detail | Information |
+| --- | --- |
+| Company | Swissnorth Ltd |
+| Location | London, United Kingdom |
+| Website | [swissnorth.com](https://swissnorth.com/) |
+| GitHub | [github.com/swissnorth](https://github.com/swissnorth) |
+| Support Email | [support@swissnorth.com](mailto:support@swissnorth.com) |
 
-## Mission & Vision
+## Mission, Vision &amp; Values
 
 ### Mission
 
-Swissnorth's stated mission is to make access to financial markets more
-accessible through innovative trading solutions, with an emphasis on
-transparent, secure, and efficient services for different experience
-levels.
+Swissnorth's stated mission is to make access to financial markets more accessible through innovative trading solutions, with an emphasis on transparent, secure, and efficient services for users with different experience levels.
 
 ### Vision
 
-Swissnorth aims to help make digital-asset markets more connected and
-understandable through continued technology development, platform
-usability, and a unified on-chain experience.
+Swissnorth aims to help make digital asset markets more connected and understandable through technology development, improved usability, and a unified on-chain experience.
 
 ### Values
 
--   **Integrity:** Communicate platform functionality and terms
-    responsibly.
--   **Transparency:** Make relevant information and risk disclosures
-    accessible.
--   **Innovation:** Develop tools for market-data analysis and
-    digital-asset services.
--   **User focus:** Design around practical trading workflows.
--   **Continuous improvement:** Evolve platform capabilities with
-    technology and market needs.
+- **Integrity:** Communicate platform functionality and terms responsibly.
+- **Transparency:** Make relevant information and risk disclosures accessible.
+- **Innovation:** Develop tools for market analysis and digital asset services.
+- **User Focus:** Design around practical trading workflows.
+- **Continuous Improvement:** Evolve platform capabilities with technology and market needs.
 
-## Trading Risk & Policy
+## Trading Risk &amp; Policy
 
-Trading financial instruments and digital assets involves substantial
-risk. Users should understand the risks of their chosen markets,
-products, and strategies before participating.
+Trading financial instruments and digital assets involves substantial risk. Users should understand the risks associated with their chosen markets, products, and strategies before participating.
 
--   Users are responsible for their trading decisions, including order
-    placement and the use of automated trading programs, subject to
-    applicable agreements and law.
--   Fees, inactivity provisions, account restrictions, quotation
-    differences, and withdrawal conditions are governed by the
-    applicable contractual terms.
--   Quotes may differ across providers, intermediaries, and execution
-    venues.
--   Potential policy violations should be handled through applicable
-    compliance procedures and contractual requirements.
+- Users are responsible for their trading decisions, including order placement and automated trading programs, subject to applicable agreements and law.
+- Fees, inactivity provisions, account restrictions, quotation differences, and withdrawal conditions are governed by the applicable contractual terms.
+- Quotes may differ across providers, intermediaries, and execution venues.
+- Potential policy violations should be handled through applicable compliance procedures and contractual requirements.
 
-This section is a high-level summary, not a substitute for Swissnorth's
-complete legal terms or trading policy. Consult the official
-documentation for the current terms.
+This section is a high-level summary and does not replace the complete trading policy or legal terms. Consult official documentation for current conditions.
 
 ## Important Disclaimer
 
-This README is for general informational purposes only and does not
-constitute financial, investment, legal, or tax advice. Trading and
-investing can result in loss, and past market behavior does not
-guarantee future outcomes. Product features, supported networks,
-markets, pricing, and availability may change. Verify current
-information through the official website and applicable documentation.
+This README is provided for general informational purposes only. It does not constitute financial, investment, legal, or tax advice.
 
-------------------------------------------------------------------------
+Trading and investing involve risk and may result in substantial losses. Past market behavior does not guarantee future outcomes. Platform features, execution specifications, supported networks, markets, pricing, and availability may change. Verify current information through the official website and applicable documentation.
 
-::: {align="center"}
-`<strong>`{=html}Swissnorth Ltd`</strong>`{=html}`<br />`{=html}
-`<em>`{=html}Move value at chain
-speed.`</em>`{=html}`<br />`{=html}`<br />`{=html}
-`<a href="https://swissnorth.com/">`{=html}Website`</a>`{=html} ·
-`<a href="https://github.com/swissnorth">`{=html}GitHub`</a>`{=html} ·
-`<a href="mailto:support@swissnorth.com">`{=html}Support`</a>`{=html}
-:::
+---
+
+<div align="center">
+  <strong>Swissnorth Ltd</strong>
+  <p><em>Move Value at Chain Speed.</em></p>
+  <p>
+    <a href="https://swissnorth.com/">Website</a> ·
+    <a href="https://github.com/swissnorth">GitHub</a> ·
+    <a href="mailto:support@swissnorth.com">Contact Support</a>
+  </p>
+</div>
 
 ## SEO Keywords
 
-Swissnorth, Swissnorth Ltd, digital asset platform, unified settlement
-layer, crypto trading platform, spot trading, perpetual trading,
-staking, cross-chain swaps, EVM wallet, Solana wallet, smart account,
-self-custody, MPC key management, proof of reserves, on-chain
-verification, liquidity heatmap, order book heatmap, volume bubbles,
-order-flow analysis, market depth, best bid and offer, DOM, market
-microstructure, Record and Replay, crypto market analytics, digital
-asset settlement.
+Swissnorth, Swissnorth Ltd, digital asset platform, unified settlement layer, crypto trading platform, spot trading, perpetual trading, staking, cross-chain swaps, EVM wallet, Solana wallet, smart account, self-custody, MPC key management, proof of reserves, on-chain verification, liquidity heatmap, order book heatmap, volume bubbles, order-flow analysis, market depth, best bid and offer, depth of market, DOM, market microstructure, Record and Replay, crypto market analytics, digital asset settlement.
