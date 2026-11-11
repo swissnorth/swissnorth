@@ -307,6 +307,7 @@ Trading and investing involve risk and may result in substantial losses. Past ma
   </p>
 </div>
 
-## SEO Keywords
+[## SEO Keywords
 
 - Swissnorth - Swissnorth Ltd - Digital Asset Platform - Unified Settlement Layer - Crypto Trading Platform - Spot Trading - Perpetual Trading - Staking - Cross-Chain Swaps - EVM Wallet - Solana Wallet - Smart Account - Self-Custody - MPC Key Management - Proof of Reserves - On-Chain Verification - Liquidity Heatmap - Order Book Heatmap - Volume Bubbles - Order-Flow Analysis - Market Depth - Best Bid and Offer - Depth of Market (DOM) - Market Microstructure - Record and Replay - Crypto Market Analytics - Digital Asset Settlement
+](https://github.com/malamtrade)
